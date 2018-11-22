@@ -1,2 +1,2 @@
 # ArcadeUrLab
-Tout les scripts qui régissent notre borne d'arcade chérie
+Tout les scripts qui régissent notre borne d'arcade chérie sont dans ce repo ^^
