@@ -1,4 +1,4 @@
-# ArcadeUrLab
+# Arcade UrLab
 Tout les scripts qui régissent notre borne d'arcade chérie sont dans ce repo ^^
 
 Matériel utilisé:
